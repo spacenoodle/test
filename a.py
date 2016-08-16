@@ -1,3 +1,4 @@
+print "YOLO"
 try:
 	action = argv[1]
 	branch = argv[2]
